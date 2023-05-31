@@ -1,0 +1,8 @@
+3BRecInfo/3BRecVars/MaxVolt 3BRecInfo/3BRecVars/ExperimentType
+3BRecInfo/3BRecVars/MinVolt 3BRecInfo/3BRecVars/MaxVolt
+3BRecInfo/3BRecVars/NRecFrames 3BRecInfo/3BRecVars/MinVolt
+3BRecInfo/3BRecVars/SamplingRate 3BRecInfo/3BRecVars/NRecFrames
+3BRecInfo/3BRecVars/SignalInversion 3BRecInfo/3BRecVars/SamplingRate
+3BUserInfo 3BRecInfo/3BRecVars/SignalInversion
+3BUserInfo/ExpMarkers 3BUserInfo
+3BUserInfo/ExpNotes 3BUserInfo/ExpMarkers
